@@ -146,6 +146,7 @@ img {
 #section-d {
   display: flex;
   flex-wrap: wrap;
+
   flex-direction: row;
   justify-content: center;
 }
@@ -158,6 +159,7 @@ img {
   padding: 2em;
   color: #fff;
   width: 50%;
+  min-width: 400px;
 }
 
 #main-footer {
